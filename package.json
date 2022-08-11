@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "depoly": "depoly.sh"
+  },
+  "keywords": [
+    
+  ],
+  "dependencies": {
+    "element-ui": "^2.10.0"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.7",
+    "webpack-dev-middleware": "^5.3.3"
+  }
+}
